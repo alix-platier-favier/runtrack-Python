@@ -1,0 +1,1 @@
+def draw_rectangle(10, 3)
